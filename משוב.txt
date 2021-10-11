@@ -1,0 +1,114 @@
+הערות ממ"ן 12- רחמין
+
+********** Test Time1 - Started **********
+
+ 1. Testing Constructors:
+	 Passed!
+
+ 2. Testing accessors and mutators:
+	 Passed!
+
+ 3. Testing minFromMidnight method:
+	 Passed!
+
+ 4. Testing equals method:
+	 Passed!
+
+ 5. Testing before method:
+	 Passed!
+
+ 6. Testing after method:
+
+	Passed!
+
+ 7. Testing difference method:
+	 Passed!
+
+ 8. Testing toString method:
+	 Passed!
+
+ 9. Testing addMinutes method:
+	 Passed!
+
+********** Test Time1 - Finished **********
+
+********** Test Time2 - Started  **********
+
+ 1. Testing Constructors:
+
+	 ERROR - constructor with 2 parameters (36,6) - expected: 00:06 actual: 00:00
+
+	 ERROR - constructor with 2 parameters (-5, 15) - expected: 00:15 actual: 00:00
+
+	 ERROR - constructor with 2 parameters (5, 89) - expected: 05:00 actual: 00:00
+
+	 ERROR - constructor with 2 parameters (23, -45) - expected: 23:00 actual: 00:00
+//-2
+ 2. Testing accessors and mutators:
+	 Passed!
+
+ 3. Testing minFromMidnight method:
+	 Passed!
+
+ 4. Testing equals method:
+	 Passed!
+
+ 5. Testing before method:
+	 Passed!
+
+ 6. Testing after method:
+
+	Passed!
+
+ 7. Testing difference method:
+	 Passed!
+
+ 8. Testing toString method:
+	 Passed!
+
+ 9. Testing addMinutes method:
+	 Passed!
+
+********** Test Time2 - Finished **********
+
+********** Test Train - Started **********
+
+ 1.  Testing Constructors:
+
+	Passed!
+
+ 2.  Testing accessors and mutators:
+	 Passed!
+
+ 3.  Testing aliasing accessors and mutators:
+
+	 ERROR - aliasing in getDeparture. getDeparture does not return a new Time1 object
+//-2
+ 4.  Testing equals method:
+	 Passed!
+
+ 5.  Testing getArrivalTime method:
+	 Passed!
+
+ 6.  Testing addPassengers method:
+	 Passed!
+
+ 7.  Testing isFull method:
+	 Passed!
+
+ 8.  Testing isCheaper method:
+	 Passed!
+
+ 9.  Testing totalPrice method:
+	 Passed!
+
+ 10. Testing arrivesEarlier method:
+	 Passed!
+
+ 11. Testing toString method:
+	 Passed!
+
+********** Test Train - Finished **********
+
+כל הכבוד!!! יופי של עבודה!
+רונית
