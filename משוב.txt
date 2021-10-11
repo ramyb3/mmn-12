@@ -1,114 +1,180 @@
-äòøåú îî"ï 12- øçîéï
+×”×¢×¨×•×ª ×ž×ž"×Ÿ 12- ×¨×—×ž×™×Ÿ
 
-********** Test Time1 - Started **********
+********** Test Time1 - Started **********
 
- 1. Testing Constructors:
-	 Passed!
 
- 2. Testing accessors and mutators:
-	 Passed!
+ 1. Testing Constructors:
 
- 3. Testing minFromMidnight method:
-	 Passed!
+	 Passed!
 
- 4. Testing equals method:
-	 Passed!
 
- 5. Testing before method:
-	 Passed!
+ 2. Testing accessors and mutators:
 
- 6. Testing after method:
+	 Passed!
 
-	Passed!
 
- 7. Testing difference method:
-	 Passed!
+ 3. Testing minFromMidnight method:
 
- 8. Testing toString method:
-	 Passed!
+	 Passed!
 
- 9. Testing addMinutes method:
-	 Passed!
+
+ 4. Testing equals method:
+
+	 Passed!
+
+
+ 5. Testing before method:
+
+	 Passed!
+
+
+ 6. Testing after method:
+
+
+	Passed!
+
+
+ 7. Testing difference method:
+
+	 Passed!
+
+
+ 8. Testing toString method:
+
+	 Passed!
+
+
+ 9. Testing addMinutes method:
+
+	 Passed!
+
 
 ********** Test Time1 - Finished **********
-
-********** Test Time2 - Started  **********
 
- 1. Testing Constructors:
 
-	 ERROR - constructor with 2 parameters (36,6) - expected: 00:06 actual: 00:00
+********** Test Time2 - Started  **********
 
-	 ERROR - constructor with 2 parameters (-5, 15) - expected: 00:15 actual: 00:00
 
-	 ERROR - constructor with 2 parameters (5, 89) - expected: 05:00 actual: 00:00
+ 1. Testing Constructors:
 
-	 ERROR - constructor with 2 parameters (23, -45) - expected: 23:00 actual: 00:00
+
+	 ERROR - constructor with 2 parameters (36,6) - expected: 00:06 actual: 00:00
+
+
+	 ERROR - constructor with 2 parameters (-5, 15) - expected: 00:15 actual: 00:00
+
+
+	 ERROR - constructor with 2 parameters (5, 89) - expected: 05:00 actual: 00:00
+
+
+	 ERROR - constructor with 2 parameters (23, -45) - expected: 23:00 actual: 00:00
+
 //-2
- 2. Testing accessors and mutators:
-	 Passed!
+ 2. Testing accessors and mutators:
 
- 3. Testing minFromMidnight method:
-	 Passed!
+	 Passed!
 
- 4. Testing equals method:
-	 Passed!
 
- 5. Testing before method:
-	 Passed!
+ 3. Testing minFromMidnight method:
 
- 6. Testing after method:
+	 Passed!
 
-	Passed!
 
- 7. Testing difference method:
-	 Passed!
+ 4. Testing equals method:
 
- 8. Testing toString method:
-	 Passed!
+	 Passed!
 
- 9. Testing addMinutes method:
-	 Passed!
+
+ 5. Testing before method:
+
+	 Passed!
+
+
+ 6. Testing after method:
+
+
+	Passed!
+
+
+ 7. Testing difference method:
+
+	 Passed!
+
+
+ 8. Testing toString method:
+
+	 Passed!
+
+
+ 9. Testing addMinutes method:
+
+	 Passed!
+
 
 ********** Test Time2 - Finished **********
-
-********** Test Train - Started **********
 
- 1.  Testing Constructors:
 
-	Passed!
+********** Test Train - Started **********
 
- 2.  Testing accessors and mutators:
-	 Passed!
 
- 3.  Testing aliasing accessors and mutators:
+ 1.  Testing Constructors:
 
-	 ERROR - aliasing in getDeparture. getDeparture does not return a new Time1 object
+
+	Passed!
+
+
+ 2.  Testing accessors and mutators:
+
+	 Passed!
+
+
+ 3.  Testing aliasing accessors and mutators:
+
+
+	 ERROR - aliasing in getDeparture. getDeparture does not return a new Time1 object
+
 //-2
- 4.  Testing equals method:
-	 Passed!
+ 4.  Testing equals method:
 
- 5.  Testing getArrivalTime method:
-	 Passed!
+	 Passed!
 
- 6.  Testing addPassengers method:
-	 Passed!
 
- 7.  Testing isFull method:
-	 Passed!
+ 5.  Testing getArrivalTime method:
 
- 8.  Testing isCheaper method:
-	 Passed!
+	 Passed!
 
- 9.  Testing totalPrice method:
-	 Passed!
 
- 10. Testing arrivesEarlier method:
-	 Passed!
+ 6.  Testing addPassengers method:
 
- 11. Testing toString method:
-	 Passed!
+	 Passed!
+
+
+ 7.  Testing isFull method:
+
+	 Passed!
+
+
+ 8.  Testing isCheaper method:
+
+	 Passed!
+
+
+ 9.  Testing totalPrice method:
+
+	 Passed!
+
+
+ 10. Testing arrivesEarlier method:
+
+	 Passed!
+
+
+ 11. Testing toString method:
+
+	 Passed!
+
 
 ********** Test Train - Finished **********
 
-ëì äëáåã!!! éåôé ùì òáåãä!
-øåðéú
+×›×œ ×”×›×‘×•×“!!! ×™×•×¤×™ ×©×œ ×¢×‘×•×“×”!
+×¨×•× ×™×ª
